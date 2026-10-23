@@ -94,6 +94,11 @@ Skill 本身免费分享，一分不收。生图消耗的是你自己 Codex 账�
 - 使用问题与 Bug 欢迎在 [Issues](https://github.com/yhhgongzuo/Ecom-Style-Unify/issues) 反馈。
 - 个人精力有限，不做一对一答疑，有问题请先自行研究。
 
+## 💬 联系作者
+
+- 微信：**yhhgongzuo**（加好友请备注「GitHub」）
+- 后续会持续分享 AI 设计自动化的玩法和工具，觉得有用点个关注不迷路。
+
 ## 📜 开源协议
 
 [MIT License](LICENSE)
