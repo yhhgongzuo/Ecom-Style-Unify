@@ -1,6 +1,6 @@
 interface:
   display_name: "阿辉的电商统一风格skill"
   short_description: "阿辉的免 PS 版：2–12张输入，小样每组最多6张，生图最多6请求并发，交付成品及纯场景"
-  default_prompt: "使用 $1023-ecommerce-style-unifier 统一这组电商图的场景、字体与设计元素，原文案免确认，交付独立成品及无设计元素纯场景 PNG。"
+  default_prompt: "使用 $ecom-style 统一这组电商图的场景、字体与设计元素，原文案免确认，交付独立成品及无设计元素纯场景 PNG。"
 policy:
   allow_implicit_invocation: true
